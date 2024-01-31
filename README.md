@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hichamafif2
+- 👋 Hi, I’m hicham afif 
 - 👀 I’m interested in ############################
 - 🌱 I’m currently learning ########################
 - 💞️ I’m looking to collaborate on ###################

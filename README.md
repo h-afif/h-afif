@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hicham Afif</h1>
 <h3 align="center">AWS Cloud Practitioner | Penetration testing | It support | It automation</h3>
 
-![Security](https://github.com/user-attachments/assets/ca8fba40-5fd6-4f3d-a6b4-045a01a9106d)
-![Security (1)](https://github.com/user-attachments/assets/32a90612-6b33-48c8-9c6c-a29804b48ed2)
 ![Security (2)](https://github.com/user-attachments/assets/7b220002-207f-4336-80c1-574bb508615e)
 
 

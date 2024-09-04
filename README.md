@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hicham Afif</h1>
 <h3 align="center">AWS Cloud Practitioner | Penetration testing | It support | It automation</h3>
-<a href="https://storyset.com/online">Online illustrations by Storyset</a>
+
+<script type='text/javascript'>document.addEventListener('DOMContentLoaded', function () {window.setTimeout(document.querySelector('svg').classList.add('animated'),1000);})</script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-afif&label=Profile%20views&color=0e75b6&style=flat" alt="h-afif" /> </p>
 

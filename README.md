@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hicham Afif</h1>
 <h3 align="center">AWS Cloud Practitioner | Penetration testing | It support | It automation</h3>
 
-![Security (2)](https://github.com/user-attachments/assets/7b220002-207f-4336-80c1-574bb508615e)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h-afif&label=Profile%20views&color=0e75b6&style=flat" alt="h-afif" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=h-afif" alt="h-afif" /></a> </p>

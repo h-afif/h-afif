@@ -17,6 +17,4 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **hichamafif65@gmail.com**
-
 - ⚡ Fun fact **Not me**

@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/hicham-afif" target="blank"><img src="https://img.shields.io/twitter/follow/hicham-afif?logo=twitter&style=for-the-badge" alt="hicham-afif" /></a> </p>
 
-- 🔭 I’m currently working on [website for books](https://freebookshub.store/)
+- 🔭 I’m currently working on [website for books](https://h-afif.github.io/freebookshub/)
 
 - 🌱 I’m currently learning **AWS Cloud Practitioner - Penetration testing**
 

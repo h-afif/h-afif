@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on [website for books](https://h-afif.github.io/freebookshub/)
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner - Penetration testing**
-
 - 👯 I’m looking to collaborate on **A site for live football matches**
 
 - 👨‍💻 All of my projects are available at [https://github.com/h-afif?tab=projects](https://github.com/h-afif?tab=projects)
